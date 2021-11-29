@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunoacoliveira
 - 👀 I’m interested in projetos de javascript, html, css e java no momento!
-- 🌱 I’m currently learning  as linguagns citadas acima, mas também tenho interesse em banco de dados.
+- 🌱 I’m currently learning  as linguagens citadas acima, mas também tenho interesse em banco de dados.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
